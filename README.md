@@ -9,9 +9,7 @@ Algoritmos gananciosos são a base da pesquisa e otimização com animais, e nã
 
 Objetivo: Dado um gráfico e um vértice S, descobrir cada vértice no escopo gráfico de S.
 
-Estratégia: Assim que um vértice é descoberto, uma nova profundidade é explorada (se possível), mesmo que nem todos os
-
-vértices nas profundidades anteriores foram descobertas.
+Estratégia: Assim que um vértice é descoberto, uma nova profundidade é explorada (se possível), mesmo que nem todos os vértices nas profundidades anteriores foram descobertas.
 
 Desvantagens:
 
